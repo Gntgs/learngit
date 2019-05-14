@@ -2,7 +2,6 @@
 -- test2
 local test = {}
 -- there is a error!
-a.x = test
 
 -- add first
 -- add second
