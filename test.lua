@@ -7,3 +7,5 @@ a.x = test
 -- add first
 -- add second
 -- add third
+
+local tb = 1
